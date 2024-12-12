@@ -4,7 +4,7 @@ export default function CachorroLayout() {
     return(
         <Stack screenOptions={{
             headerStyle: {
-              backgroundColor: '#f4511e',
+              backgroundColor: '#00994c',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {

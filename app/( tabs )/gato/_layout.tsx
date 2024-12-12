@@ -4,7 +4,7 @@ export default function Tela1Layout() {
   return (
     <Stack  screenOptions={{
       headerStyle: {
-        backgroundColor: '#f4511e',
+        backgroundColor: '#00994c',
       },
       headerTintColor: '#fff',
       headerTitleStyle: {
